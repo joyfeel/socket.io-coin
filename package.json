@@ -1,0 +1,24 @@
+{
+  "name": "socket.io-coin",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyfeel/socket.io-coin.git"
+  },
+  "author": "Joey Chen <joybee210@gmail.com> (https://github.com/joyfeel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joyfeel/socket.io-coin/issues"
+  },
+  "homepage": "https://github.com/joyfeel/socket.io-coin#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "path": "0.12.7",
+    "socket.io": "1.4.8"
+  }
+}
